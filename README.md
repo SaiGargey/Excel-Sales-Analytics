@@ -22,7 +22,7 @@ This file gets into the nitty-gritty of monthly and quarterly numbers so you can
 * **FY 2020 & FY 2021 Monthly Progression**: Follows the monthly flow of sales and costs to spot seasonal trends.
 * **Comparative Growth Analysis**: Compares growth across different years on a month-to-month basis, like matching up months from 2021 against 2020.
 
-### 3. Data Analysis Report ([data analysis report atliq hardware.pdf](data analysis report atliq hardware.pdf))
+### 3. Data Analysis Report ([data_analysis_report_atliq_hardware.pdf](data_analysis_report_atliq_hardware.pdf))
 
 This report dives deep into sales data, looking at products, retail customers, and how well regional targets were met.
 
